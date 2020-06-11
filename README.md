@@ -13,8 +13,8 @@ go get github.com/xiaoenai/glog
 package main
 
 import (
-	"github.com/xiaoenai/glog"
 	"time"
+    "github.com/xiaoenai/glog"
 )
 
 func main(){
